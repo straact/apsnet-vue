@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace TrakingLibrary.API.Controllers
+namespace API.Controllers
 {
     [ApiController]
     [Route("api/home")]
